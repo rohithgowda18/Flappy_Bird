@@ -1,1 +1,2 @@
-# Flappy_Bird
+# [Flappy Bird]
+An intresting game...
